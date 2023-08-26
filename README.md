@@ -5,14 +5,15 @@
 [awesome resources](https://www.real0day.com/resources)<br>
 [awesome reversing](https://github.com/tylerha97/awesome-reversing)<br>
 [awesome linux re 101](https://github.com/michalmalik/linux-re-101)<br>
-.[awesome cyber security guide](https://github.com/benjamin-mauss/jic-cyber-security-guide)
+[awesome cyber security guide](https://github.com/benjamin-mauss/jic-cyber-security-guide)
 
 ### calc 
 .[books] 
 
 ### pentesting
-- [x] .[staters serie by tryhackme](https://tryhackme.com/hacktivities?tab=practice)
-- [ ] .[overpass serie by tryhackme](https://tryhackme.com/hacktivities?tab=practice)
+- [x] [staters serie by tryhackme](https://tryhackme.com/hacktivities?tab=practice)
+- [ ] [overpass serie by tryhackme](https://tryhackme.com/hacktivities?tab=practice)
+- [ ] [hack the box starter point](https://app.hackthebox.com/starting-point)
 
 ### kernel
 - [ ] [kernel patch](https://github.com/gregkh/kernel-tutorial/blob/master/lxf_article/write_kernel_patch.txt)
