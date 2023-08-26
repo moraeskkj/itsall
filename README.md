@@ -1,10 +1,11 @@
-# happynewyear
+# brain confusion
 *my to-do study list* 
 
 ### main()
 [awesome resources](https://www.real0day.com/resources)<br>
 [awesome reversing](https://github.com/tylerha97/awesome-reversing)<br>
-[awesome linux re 101](https://github.com/michalmalik/linux-re-101)
+[awesome linux re 101](https://github.com/michalmalik/linux-re-101)<br>
+.[awesome cyber security guide](https://github.com/benjamin-mauss/jic-cyber-security-guide)
 
 ### calc 
 .[books] 
