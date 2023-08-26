@@ -13,6 +13,7 @@
 ### pentesting
 - [x] .[staters serie by tryhackme](https://tryhackme.com/hacktivities?tab=practice)
 - [ ] .[overpass serie by tryhackme](https://tryhackme.com/hacktivities?tab=practice)
+- [ ] .[hack the box starter point](https://app.hackthebox.com/starting-point)
 
 ### kernel
 - [ ] [kernel patch](https://github.com/gregkh/kernel-tutorial/blob/master/lxf_article/write_kernel_patch.txt)
