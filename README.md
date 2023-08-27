@@ -28,7 +28,7 @@
 - [ ] [kernel memory corruption](https://googleprojectzero.blogspot.com/2021/10/how-simple-linux-kernel-memory.html)
 - [ ] [kernel debugging using kgdb/gdb](https://sploitfun.blogspot.com/2013/06/linux-kernel-debugging-using-kgdbgdb.html)
 
-### programming
+### c programming
 - [ ] [eudyptula](https://github.com/ayedaemon/eudyptula)
 - [ ] [creating a rootkit to learn C](https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit/)
 - [ ] [learning C](https://github.com/h0mbre/Learning-C) 
@@ -37,6 +37,16 @@
 - [ ] [how to benchmark code execution times - intel](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/ia-32-ia-64-benchmark-code-execution-paper.pdf)
 - [ ] [ARM assembly basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
 - [ ] [NASM assembly](https://asmtutor.com/)
+- [ ] [integer (wikipedia)](https://en.wikipedia.org/wiki/Integer...)
+- [ ] [two’s complement (wikipedia](https://en.wikipedia.org/wiki/Two%27s...)
+- [ ] [How numbers are encoded in JavaScript](https://2ality.com/2012/04/number-enc...)
+- [ ] [FLOATING POINT VISUALLY EXPLAINED](https://fabiensanglard.net/floating_p...)
+- [ ] [What Every Computer Scientist Should Know About Floating-Point Arithmetic (oracle.com)]
+- [ ] [IEEE-754 Floating Point Converter (h-schmidt.net)]
+- [ ] [Number.MAX_SAFE_INTEGER - JavaScript | MDN (mozilla.org)]
+- [ ] [Signed Binary/Decimal Conversion Using the Two's Complement Representation (Signed Binary/Decimal Conversion (ubc.ca))]
+- [ ] [C - Pointer arithmetic - Tutorialspoint]
+- [ ] [Why Discord is switching from Go to Rust](https://blog.discord.com/why-discord-...)
 
 ### reversing
 - [ ] [re 101 - [0x00sec]](https://0x00sec.org/t/reverse-engineering-101/1233)
