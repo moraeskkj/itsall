@@ -8,12 +8,12 @@
 [awesome cyber security guide](https://github.com/benjamin-mauss/jic-cyber-security-guide)
 
 ### calc 
-.[books] 
+
 
 ### pentesting
 - [x] [staters serie by tryhackme](https://tryhackme.com/hacktivities?tab=practice)
 - [ ] [overpass serie by tryhackme](https://tryhackme.com/hacktivities?tab=practice)
-- [ ] [hack the box starter point](https://app.hackthebox.com/starting-point)
+- [x] [hack the box starter point](https://app.hackthebox.com/starting-point)
 
 ### kernel
 - [ ] [kernel patch](https://github.com/gregkh/kernel-tutorial/blob/master/lxf_article/write_kernel_patch.txt)
@@ -70,6 +70,8 @@
 ### computer science
 - [ ] [CS61 - systems programming and machine organization ](https://cs61.seas.harvard.edu/site/2022/#gsc.tab=0)
 - [ ] [algorithmic concepts](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts/)
+- [ ] [the arrt of computer programming donald e. knuth]
+- [ ] [algoritmos e estruturas de dados niklaus wirth]
 
 ### papers 
 - [ ] [RIDL rogue in-flight data load](https://mdsattacks.com/files/ridl.pdf)
