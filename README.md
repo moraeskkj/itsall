@@ -70,8 +70,9 @@
 ### computer science
 - [ ] [CS61 - systems programming and machine organization ](https://cs61.seas.harvard.edu/site/2022/#gsc.tab=0)
 - [ ] [algorithmic concepts](https://superstudy.guide/algorithms-data-structures/foundations/algorithmic-concepts/)
-- [ ] [the arrt of computer programming donald e. knuth]
-- [ ] [algoritmos e estruturas de dados niklaus wirth]
+- [ ] [the arrt of computer programming by donald e. knuth]
+- [ ] [algoritmos e estruturas de dados by niklaus wirth]
+- [ ] [entendendo algoritmos: um guia ilustrado para programadores e outros curiosos by aditya y. bhargav]
 
 ### papers 
 - [ ] [RIDL rogue in-flight data load](https://mdsattacks.com/files/ridl.pdf)
