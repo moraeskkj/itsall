@@ -7,9 +7,6 @@
 [awesome linux re 101](https://github.com/michalmalik/linux-re-101)<br>
 [awesome cyber security guide](https://github.com/benjamin-mauss/jic-cyber-security-guide)
 
-### calc 
-
-
 ### pentesting
 - [x] [staters serie by tryhackme](https://tryhackme.com/hacktivities?tab=practice)
 - [ ] [overpass serie by tryhackme](https://tryhackme.com/hacktivities?tab=practice)
@@ -79,5 +76,6 @@
 - [ ] [An efficient algorithm for exploiting multiple arithmetic units](https://github.com/h4cknlearn/happynewyear/blob/main/An%20efficient%20algorithm%20for%20exploiting%20multiple%20arithmetic%20units%20-%20tomasulo.pdf)
 - [ ] [Jump over ASLR: Attacking Branch Predictors to Bypass ASLR](https://github.com/h4cknlearn/happynewyear/blob/main/Jump%20Over%20ASLR%20-%20attacking%20branch%20predictors%20to%20bypass%20ASLR.pdf)
 - [ ] [Foreshadow](https://github.com/h4cknlearn/happynewyear/blob/main/Foreshadow%20-%20Extracting%20the%20Keys%20to%20the%20Intel%20SGX.pdf)
+- [ ] [typesystems](http://lucacardelli.name/Papers/TypeSystems.pdf)
 
 ### music
