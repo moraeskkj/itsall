@@ -6,6 +6,7 @@
 [awesome reversing](https://github.com/tylerha97/awesome-reversing)<br>
 [awesome linux re 101](https://github.com/michalmalik/linux-re-101)<br>
 [awesome cyber security guide](https://github.com/benjamin-mauss/jic-cyber-security-guide)
+[awesome repository](https://github.com/rodolfomarianocy)
 
 ### pentesting
 - [x] [staters serie by tryhackme](https://tryhackme.com/hacktivities?tab=practice)
