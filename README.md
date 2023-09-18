@@ -64,6 +64,7 @@
 - [ ] [journey into r2](https://www.megabeets.net/a-journey-into-radare-2-part-2/)
 - [ ] [regex exploitation](https://s0md3v.medium.com/exploiting-regular-expressions-2192dbbd6936)
 - [ ] [memory corruption - project zero](https://googleprojectzero.blogspot.com/2015/06/what-is-good-memory-corruption.html)
+- [ ] [rop without functions paper](https://hovav.net/ucsd/talks/blackhat08.html)
 
 ### computer science
 - [ ] [CS61 - systems programming and machine organization ](https://cs61.seas.harvard.edu/site/2022/#gsc.tab=0)
