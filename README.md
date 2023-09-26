@@ -13,6 +13,14 @@
 - [ ] [overpass serie by tryhackme](https://tryhackme.com/hacktivities?tab=practice)
 - [x] [hack the box starter point](https://app.hackthebox.com/starting-point)
 
+### windows
+
+- [ ] [privilege escalation](https://micahvandeusen.com/the-power-of-seimpersonation/)
+- [ ] [printerspoofer blog](https://itm4n.github.io/printspoofer-abusing-impersonate-privileges/)
+
+
+
+
 ### kernel
 - [ ] [kernel patch](https://github.com/gregkh/kernel-tutorial/blob/master/lxf_article/write_kernel_patch.txt)
 - [ ] [linux kernel in a nutshell](http://www.kroah.com/lkn/)
